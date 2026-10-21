@@ -250,6 +250,14 @@ body.lb-open{overflow:hidden}
 .nav a,.nav button.dd-btn{white-space:nowrap}
 .brand-text small{white-space:nowrap}
 .edition-banner img{mix-blend-mode:multiply}
+
+/* Digital Medievalist logo in footer */
 .footer-dm-logo { display: inline-block; margin-top: .75rem; }
-.footer-dm-logo img { height: 44px; width: auto; display: block; filter: brightness(0) invert(1); opacity: .9; }
+.footer-dm-logo img {
+  height: 44px; width: auto; display: block;
+  /* logo is black; this turns it white on the dark footer.
+     Delete the next line if your footer background is light. */
+  filter: brightness(0) invert(1);
+  opacity: .9;
+}
 .footer-dm-logo:hover img, .footer-dm-logo:focus-visible img { opacity: 1; }
