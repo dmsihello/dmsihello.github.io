@@ -23,7 +23,7 @@ Save logo files in `assets/` using these exact names:
 ## Edit content
 - Home text and philosophy: `index.html`
 - Upcoming 2027 sessions (dates, workshops once announced, programme): `locations.html`
-- Past sessions, year by year: `past-sessions.html` (fill in the "to add" items; when a new year ends, copy a year block to the top)
+- Past events, year by year: `past-sessions.html` (fill in the "to add" items; when a new year ends, copy a year block to the top)
 - Lightning Talks page text: `lightning-talks.html`
 - Testimonials: `testimonials.html`; photos in `assets/testimonials/`
 - Registration details (fees, deadlines once known): `register.html`
