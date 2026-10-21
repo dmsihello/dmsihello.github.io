@@ -246,6 +246,7 @@ body.lb-open{overflow:hidden}
 .lb button:hover{background:rgba(255,255,255,.28)}
 .lb-close{position:absolute;top:12px;right:14px}
 @media (max-width:600px){.lb-nav{position:absolute;bottom:12px}.lb-prev{left:16px}.lb-next{right:16px}.lb{padding-bottom:76px}}
+
 .nav a,.nav button.dd-btn{white-space:nowrap}
 .brand-text small{white-space:nowrap}
 .edition-banner img{mix-blend-mode:multiply}
